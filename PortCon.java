@@ -33,9 +33,6 @@ public class PortCon {
 			
 		}
 	}
-	public PortCon(String iD, String descript, double weight) {
-		// TODO Auto-generated constructor stub
-	}
 
 
 
@@ -160,3 +157,4 @@ public class PortCon {
 
 
 }
+
